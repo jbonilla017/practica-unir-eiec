@@ -1,6 +1,6 @@
 """
 License: Apache
-Organization: UNIR
+Organization: UNIR y Jose R. Bonilla Alarcón
 """
 
 import os
