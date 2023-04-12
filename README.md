@@ -3,6 +3,7 @@
 Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
 
 ---
+Esta es las pruebas de la segunda rama, voy a modificar varias cosas en la segunda rama.
 
 Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows, necesitarás adaptarlos o ejecutarlos en una máquina virtual Linux.
 
